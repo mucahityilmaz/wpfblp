@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WPFBLP - Facebook Login for Wordpress
-Plugin URI: http://www.github.com/mucahityilmaz/wpfblp
+Plugin URI: https://github.com/mucahityilmaz/wpfblp
 Description: A Facebook Login plugin for Wordpress with FB PHP SDK v4.x
 Version: 1.0
 Author: mucahityilmaz
