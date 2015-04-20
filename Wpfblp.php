@@ -57,7 +57,6 @@ class Wpfblp {
 					<input type="submit" name="wpfblp_submit" value="Save" />
 				</p>
 			</form>
-			<center><small><em>Have questions? <a href="mailto:mucahityilmaz+wpfblp@gmail.com?Subject=Wpfblp%20Problem%20[T:<?php echo time(); ?>]" target="_blank">Drop me</a> a line.</em></small></center>
 		</div>
 <?php
 	}
